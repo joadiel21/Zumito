@@ -35,6 +35,6 @@ Este proyecto implementa un sistema de optimización de rutas basado en **grafos
 ## 📝 Mejoras futuras
 - Implementación de una **interfaz gráfica (GUI)**.  
 - Uso de una **cola de prioridad** para optimizar Dijkstra.  
-- Exportación de rutas en **formato JSON o CSV**.  
+ 
 
 
