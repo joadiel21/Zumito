@@ -24,6 +24,7 @@ Este proyecto implementa un sistema de optimización de rutas basado en **grafos
 
 ## 🚀 Instalación y ejecución
 1️⃣ Descarga el archivo zip con nombre Prototipo.zip
+
 2️⃣ Abre el proyecto en **Visual Basic 22** o cualquier editor compatible.  
 3️⃣ Compila y ejecuta el programa.  
 
